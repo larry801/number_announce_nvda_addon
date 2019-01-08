@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: 'nvda-translations@freelists.org'\n"
+"POT-Creation-Date: 2019-01-08 19:51+0800\n"
+"PO-Revision-Date: 2019-01-08 19:56+0800\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+#: addon\globalPlugins\changeNumberAnnouncement\__init__.py:31
+msgid "Speak numbers as is."
+msgstr "数值读法"
+
+#: addon\globalPlugins\changeNumberAnnouncement\__init__.py:34
+msgid "Speak numbers as digits."
+msgstr "数字读法"
+
+#: addon\globalPlugins\changeNumberAnnouncement\__init__.py:36
+msgid "Number announce setting"
+msgstr "数字朗读设置"
+
+#: addon\globalPlugins\changeNumberAnnouncement\__init__.py:37
+msgid "Toggle number announcement settings"
+msgstr "切换数字朗读设置"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:17
+msgid "Change the announcement of numbers"
+msgstr "更改数字朗读方式"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
+msgid "Add an option to read numbers as individual digits."
+msgstr "添加一个选项, 可以按照单个数字或者数值读一串数字。"
